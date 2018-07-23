@@ -3,4 +3,4 @@
 
 This is a project as a part of FreeCodeCamp Front End Curriculuim 
 
-[view page]()
+[view page]( https://ahmed-elbessfy.github.io/Product_Landing_Page/)
